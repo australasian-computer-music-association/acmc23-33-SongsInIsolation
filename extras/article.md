@@ -1,51 +1,40 @@
----
-title: 'Songs in Isolation: Social Commentary and Contagion, COVID-19, and Creative Practice in Electronic Music'
-author: 
-    - name: Sophie Rose 
-      affiliation: The University of Melbourne & Australian Institute of Music
-      city: Melbourne
-      country: Australia
-      email: sophie.rose@aim.edu.au
-author-header: S. Rose
-abstract: |
-    Songs in Isolation is a series of nine mini-works for online multimedia
-    distribution. The works are a time capsule of the first 18 months of the
-    COVID-19 pandemic. Each piece was informed by Melbourne, Australia\'s
-    global and locational socio-political contexts. Composition themes
-    include frustration (at public messaging, government incompetence, panic
-    buying, lobbying by large businesses at the detriment of the rest of
-    society, and spreading of disinformation), socially contagious
-    behaviours (home hairdressing, meditation, dieting), and personal
-    reactions to stress (brain fog, dissociation, pressure to generate
-    creative content). This research is practice-based performative
-    autoethnography \[1\], \[2\]. The pieces and social context move
-    together, buffeted by the movements of a virus and the success or
-    failure of each country concerning travel movements and
-    location-specific behaviours of the public. Various composition tools
-    and techniques were used to suit each work, including gestural
-    interfaces (Wave \[3\], MiMu \[4\], self-built datagloves -- GLVD
-    \[5\]), consumer EEG interface -- Muse 2 \[6\]), various DAWs and field
-    recording devices, and voice.
-anonymous: 'false'
-bibliography: 'references'
-papersize: a4
-classoption: 12pt
-secnumdepth: 3
-reference-section-title: 'References'
-year: YYYY
-volume: XX
-number: X
-article-no: X
-date: 'YYYY-MM-DD'
-accepted-date: 'YYYY-MM-DD'
-published-date: 'YYYY-MM-DD'
----
+*Songs in Isolation*: Social Commentary and Contagion, COVID-19, and
+Creative Practice in Electronic Music
 
-<!-- ***Keywords**: performative autoethnography; COVID-19 art; computer
++-----------------------------------------------------------------------+
+| Sophie Rose                                                           |
++-----------------------------------------------------------------------+
+| The University of Melbourne & Australian Institute of Music           |
+|                                                                       |
+| <sophie.rose@aim.edu.au>                                              |
++-----------------------------------------------------------------------+
+
+ABSTRACT
+
+*Songs in Isolation is a series of nine mini-works for online multimedia
+distribution. The works are a time capsule of the first 18 months of the
+COVID-19 pandemic. Each piece was informed by Melbourne, Australia\'s
+global and locational socio-political contexts. Composition themes
+include frustration (at public messaging, government incompetence, panic
+buying, lobbying by large businesses at the detriment of the rest of
+society, and spreading of disinformation), socially contagious
+behaviours (home hairdressing, meditation, dieting), and personal
+reactions to stress (brain fog, dissociation, pressure to generate
+creative content). This research is practice-based performative
+autoethnography \[1\], \[2\]. The pieces and social context move
+together, buffeted by the movements of a virus and the success or
+failure of each country concerning travel movements and
+location-specific behaviours of the public. Various composition tools
+and techniques were used to suit each work, including gestural
+interfaces (Wave \[3\], MiMu \[4\], self-built datagloves -- GLVD
+\[5\]), consumer EEG interface -- Muse 2 \[6\]), various DAWs and field
+recording devices, and voice.*
+
+***Keywords**: performative autoethnography; COVID-19 art; computer
 music; singing; gestural music; social commentary; behavioural
-contagion.* -->
+contagion.*
 
-# Introduction {#introduction .First-Level-Headings}
+# INTRODUCTION {#introduction .First-Level-Headings}
 
 *Songs in Isolation* is a series of works composed during the 2020-2021
 COVID-19 lockdowns in Melbourne, Australia. The pieces were a response
@@ -191,8 +180,8 @@ externalise psychological states.
 Here, I discuss the compositions relevant to this paper and how they
 represent the global or local context at the time of composition. The
 series is collectively called *Songs in Isolation*. The works are
-discussed in the order composed and released. Links to YouTube videos
-are provided for each piece[^2].
+discussed in the order composed and released. **[Links to YouTube videos
+are provided for each piece]{.mark}**[^2]**[.]{.mark}**
 
 ## I: Always Read the Instructions, April-May 2020 {#i-always-read-the-instructions-april-may-2020 .Second-Level-Headings .unnumbered}
 
@@ -292,7 +281,11 @@ device\'s output while listening to the final composition.
 
 Link to work: <https://youtu.be/PkVjeE0VcNQ>
 
-![*Muse 2* EEG headset device being worn while routing data to control sound.](./media/image1.png)
+![](./media/image1.png){width="2.749202755905512in"
+height="2.1995483377077867in"}
+
+**Figure 1.** *Muse 2* EEG headset device being worn while routing data
+to control sound.
 
 ## V: Being Inside, October 2020 {#v-being-inside-october-2020 .Second-Level-Headings .unnumbered}
 
@@ -315,7 +308,9 @@ overtones, mimicking the effect achieved with vocals.
 
 Link to work: <https://youtu.be/Wutfkbiq930>
 
-![*GLVD* version three.](./media/image2.jpeg)
+### ![A pair of gloves with wires and wires Description automatically generated](./media/image2.jpeg){width="2.5740748031496063in" height="1.7158650481189852in"} {#a-pair-of-gloves-with-wires-and-wires-description-automatically-generated .Third-Level-Headinds .unnumbered}
+
+**Figure 2.** *GLVD* version three.
 
 ## VI: First, There Was Nothing, Then It Exploded, October 2021  {#vi-first-there-was-nothing-then-it-exploded-october-2021 .Second-Level-Headings .unnumbered}
 
@@ -373,7 +368,9 @@ the prevailing sentiment in Melbourne when I began crafting the piece.
 
 Link to work: <https://youtu.be/u3hisGPoK4E>
 
-![*GLVD* version four](./media/image3.jpeg) 
+### ![A pair of black gloves with wires Description automatically generated with medium confidence](./media/image3.jpeg){width="2.4444444444444446in" height="1.8334645669291338in"} {#a-pair-of-black-gloves-with-wires-description-automatically-generated-with-medium-confidence .Third-Level-Headinds .unnumbered}
+
+**Figure 3.** *GLVD* version four.
 
 ## VIII: Flame, February 2021 {#viii-flame-february-2021 .Second-Level-Headings .unnumbered}
 
@@ -633,11 +630,7 @@ highlighted the value of simplicity and reduced cognitive load,
 underscoring artists\' adaptability in adversity and offering lessons
 for future creative endeavours during crises.
 
-# References {#references .First-Level-Headings}
-
-```{=latex}
-\begin{hangparas}{1.5em}{1}
-```
+# references {#references .First-Level-Headings}
 
 \[1\] L. Candy, "Practice Based Research: A Guide," University of
 Technology, Sydney, AU, CCS 2006-V1.0 November, 2006.
@@ -645,27 +638,27 @@ Technology, Sydney, AU, CCS 2006-V1.0 November, 2006.
 \[2\] T. Spry, *Body, Paper, Stage: Writing and Performing
 Autoethnography*. Walnut Creek, UNITED STATES: Routledge, 2011.
 Accessed: Apr. 07, 2020. \[Online\]. Available:
-<http://ebookcentral.proquest.com/lib/unimelb/detail.action?docID=843865>
+http://ebookcentral.proquest.com/lib/unimelb/detail.action?docID=843865
 
-\[3\] Genki Instruments, *Wave*. 2019. Accessed: Mar. 14, 2022.
-\[Dataring\]. Available: <http://genkiinstruments.com/products/wave>
+\[3\] Genki Instruments, *Wave‎*. 2019. Accessed: Mar. 14, 2022.
+\[Dataring\]. Available: http://genkiinstruments.com/products/wave
 
 \[4\] MiMu Gloves LTD, *MiMu*. 2010. Accessed: Oct. 18, 2021.
-\[Datagloves\]. Available: <https://mimugloves.com/>
+\[Datagloves\]. Available: https://mimugloves.com/
 
 \[5\] S. Rose, *GLVD (Gently Leveraging Variable Decisions)*. 2020.
 Accessed: Apr. 26, 2023. \[Datagloves\]. Available:
-<https://www.youtube.com/watch?v=Rphplar3RUo>
+https://www.youtube.com/watch?v=Rphplar3RUo
 
 \[6\] InteraXon Inc., *Muse 2: Brain Sensing Headband - Technology
 Enhanced Meditation*. 2020. Accessed: Jun. 27, 2022. \[Consumer EEG
-Headband\]. Available: <https://choosemuse.com/muse-2/>
+Headband\]. Available: https://choosemuse.com/muse-2/
 
 \[7\] Cycling '74, "Max MSP." Cycling '74, USA, 2018.
 
 \[8\] Ableton, "Ableton Live 11." Ableton, Germany, 2021.
 
-\[9\] Apple Inc., "Logic Pro X." Apple Inc., USA, 2022.
+\[9\] Apple INC., "Logic Pro X." Apple Inc., USA, 2022.
 
 \[10\] D. Centola, "Complex Contagions and the Weakness of Long Ties,"
 *Am. J. Sociol.*, vol. 113, no. 3, pp. 702--734, Nov. 2007, doi:
@@ -693,7 +686,7 @@ Aesthet. Art Crit.*, vol. 57, no. 3, pp. 299--313, 1999, doi:
 \[15\] G. Sullivan, *Art Practice as Research: Inquiry in Visual Arts*,
 2nd ed. USA: SAGE Publications, Inc., 2010. Accessed: Aug. 26, 2019.
 \[Online\]. Available:
-<https://au.sagepub.com/en-gb/oce/art-practice-as-research/book233902>
+https://au.sagepub.com/en-gb/oce/art-practice-as-research/book233902
 
 \[16\] P. Butterworth, S. Schurer, T.-A. Trinh, E. Vera-Toscano, and M.
 Wooden, "Effect of lockdown on mental health in Australia: evidence from
@@ -716,18 +709,18 @@ Coin?," *J. Memet.*, vol. 2, pp. 171--185, Jan. 1998.
 
 \[20\] J. DePaoli, *Coronavirus Etude (For Piano and Disinfecting
 Wipe)*. 2020. \[Music\]. Available:
-<https://www.youtube.com/watch?v=XP5dPn_eP7Q>
+https://www.youtube.com/watch?v=XP5dPn_eP7Q
 
 \[21\] Mashd N Kutcher, *Get on the Beers (feat. Dan Andrews)*. 2020.
 Accessed: Oct. 03, 2022. \[Meme, Audiovisual Music Video\]. Available:
-<https://www.youtube.com/watch?v=7hOK5JF5XGA>
+https://www.youtube.com/watch?v=7hOK5JF5XGA
 
 \[22\] M. Applebaum, *Three Unlikely Corporate Sponsorships*. 2016.
 
 \[23\] M. McGowan, "Melbourne anti-lockdown protests: at least 15
 arrested in violent clashes with police," *The Guardian*, Sep. 05, 2020.
 Accessed: Jun. 26, 2023. \[Online\]. Available:
-<https://www.theguardian.com/australia-news/2020/sep/05/melbourne-anti-lockdown-protests-dozens-arrested-in-violent-clashes-with-police>
+https://www.theguardian.com/australia-news/2020/sep/05/melbourne-anti-lockdown-protests-dozens-arrested-in-violent-clashes-with-police
 
 \[24\] M. de Young, *Encyclopedia of Asylum Therapeutics, 1750-1950s*.
 McFarland, 2015.
@@ -735,7 +728,7 @@ McFarland, 2015.
 \[25\] J. Taylor, "Melbourne to reopen after more than four months of
 Covid lockdown," *The Guardian*, Oct. 26, 2020. Accessed: Jun. 26, 2023.
 \[Online\]. Available:
-<https://www.theguardian.com/australia-news/2020/oct/26/melbourne-to-reopen-after-more-than-four-months-of-covid-lockdown>
+https://www.theguardian.com/australia-news/2020/oct/26/melbourne-to-reopen-after-more-than-four-months-of-covid-lockdown
 
 \[26\] D. A. Schön, *The Reflective Practitioner: How Professionals
 Think in Action*. Routledge, 1983. doi: 10.4324/9781315237473.
@@ -752,17 +745,17 @@ Bus. Organ. Excell.*, vol. 41, no. 6, pp. 11--22, 2022, doi:
 harassment rises for Australian university students during Covid," *The
 Guardian*, Mar. 23, 2022. Accessed: Jun. 27, 2023. \[Online\].
 Available:
-<https://www.theguardian.com/australia-news/2022/mar/23/distressing-and-confronting-online-sexual-harassment-rises-for-australian-university-students-during-covid>
+https://www.theguardian.com/australia-news/2022/mar/23/distressing-and-confronting-online-sexual-harassment-rises-for-australian-university-students-during-covid
 
 \[30\] M. Berger, "Gender-based online abuse surged during the pandemic.
 Laws haven't kept up, activists say.," *Washington Post*, Nov. 25, 2021.
 Accessed: Jun. 27, 2023. \[Online\]. Available:
-<https://www.washingtonpost.com/world/2021/11/24/online-abuse-surged-during-pandemic-laws-havent-kept-up-activists-say/>
+https://www.washingtonpost.com/world/2021/11/24/online-abuse-surged-during-pandemic-laws-havent-kept-up-activists-say/
 
 \[31\] T. Eerola, J. K. Vuoskoski, and H. Kautiainen, "Being Moved by
 Unfamiliar Sad Music Is Associated with High Empathy," *Front.
 Psychol.*, vol. 7, 2016, Accessed: Jun. 27, 2022. \[Online\]. Available:
-<https://www.frontiersin.org/article/10.3389/fpsyg.2016.01176>
+https://www.frontiersin.org/article/10.3389/fpsyg.2016.01176
 
 \[32\] J. A. C. J. Bastiaansen, M. Thioux, and C. Keysers, "Evidence for
 mirror systems in emotions," *Philos. Trans. R. Soc. B Biol. Sci.*, vol.
@@ -776,12 +769,12 @@ neuroscience. Cambridge, MA, US: Boston Review, 2009, pp. 19--30. doi:
 \[34\] P. N. Danziger, "With Recession Threatening, The Lipstick Effect
 Kicks In And Lipstick Sales Rise," *Forbes*, Online, Jun. 01, 2022.
 Accessed: Jun. 27, 2022. \[Online\]. Available:
-<https://www.forbes.com/sites/pamdanziger/2022/06/01/with-inflation-rising-the-lipstick-effect-kicks-in-and-lipstick-sales-rise/>
+https://www.forbes.com/sites/pamdanziger/2022/06/01/with-inflation-rising-the-lipstick-effect-kicks-in-and-lipstick-sales-rise/
 
 \[35\] U. Dholakia, "How Anxiety Affects Our Buying Behaviors \|
 Psychology Today Australia," *Psychology Today*, vol. Online, Mar. 30,
 2020. Accessed: Dec. 13, 2021. \[Online\]. Available:
-<https://www.psychologytoday.com/au/blog/the-science-behind-behavior/202003/how-anxiety-affects-our-buying-behaviors>
+https://www.psychologytoday.com/au/blog/the-science-behind-behavior/202003/how-anxiety-affects-our-buying-behaviors
 
 \[36\] K. F. Yuen, X. Wang, F. Ma, and K. X. Li, "The Psychological
 Causes of Panic Buying Following a Health Crisis," *Int. J. Environ.
@@ -790,7 +783,7 @@ Res. Public. Health*, vol. 17, no. 10, p. 3513, May 2020, doi:
 
 \[37\] L. Martens, "Dark Humor and Childhood Trauma," *"Are you okay?,"*
 Jun. 26, 2019.
-<https://medium.com/are-you-okay/dark-humor-and-childhood-trauma-988dc3c64396>
+https://medium.com/are-you-okay/dark-humor-and-childhood-trauma-988dc3c64396
 (accessed Mar. 07, 2022).
 
 \[38\] M. Mainsbridge, *Body as Instrument: Performing with Gestural
@@ -800,25 +793,21 @@ Systems in Live Electronic Music*. Bloomsbury Academic, 2022. doi:
 \[39\] L. (Elizabeth) Sander and O. Baumann, "5 reasons why Zoom
 meetings are so exhausting," *The Conversation*, Australia, May 05,
 2020. Accessed: Sep. 12, 2023. \[Online\]. Available:
-<http://theconversation.com/5-reasons-why-zoom-meetings-are-so-exhausting-137404>
+http://theconversation.com/5-reasons-why-zoom-meetings-are-so-exhausting-137404
 
 \[40\] A. Vergallito *et al.*, "Explicit and Implicit Responses of
 Seeing Own vs. Others' Emotions: An Electromyographic Study on the
 Neurophysiological and Cognitive Basis of the Self-Mirroring Technique,"
 *Front. Psychol.*, vol. 11, 2020, Accessed: Sep. 12, 2023. \[Online\].
-Available: <https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00433>
-
-```{=latex}
-\end{hangparas}
-```
+Available: https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00433
 
 [^1]: Pictures shared peer-to-peer on social media, generally with a
     text caption over the top, sometimes involving sound or moving
     images and normally amusing.
 
-[^2]: DOIs can be provided.
+[^2]: DOI's can be provided.
 
-[^3]: A timelapse video of one layer's recording can be viewed at
+[^3]: A timelapse video of one layer\'s recording can be viewed at
     <https://youtu.be/OCBy0Q2RT7k>, where I manage sample starts and
     stops and control audio effects like speed, distortion, and
     filtering.
