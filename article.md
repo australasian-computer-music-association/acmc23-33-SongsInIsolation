@@ -32,13 +32,13 @@ papersize: a4
 classoption: 12pt
 secnumdepth: 3
 reference-section-title: 'References'
-year: YYYY
-volume: XX
-number: X
-article-no: X
-date: 'YYYY-MM-DD'
-accepted-date: 'YYYY-MM-DD'
-published-date: 'YYYY-MM-DD'
+year: 2023
+volume: 39
+number: 2
+article-no: 1
+date: '2023-07-13'
+accepted-date: '2023-08-04'
+published-date: '2023-10-09'
 ---
 
 <!-- ***Keywords**: performative autoethnography; COVID-19 art; computer
