@@ -192,7 +192,7 @@ Here, I discuss the compositions relevant to this paper and how they
 represent the global or local context at the time of composition. The
 series is collectively called *Songs in Isolation*. The works are
 discussed in the order composed and released. Links to YouTube videos
-are provided for each piece[^2].
+are provided for each piece.
 
 ## I: Always Read the Instructions, April-May 2020 {#i-always-read-the-instructions-april-may-2020 .Second-Level-Headings .unnumbered}
 
@@ -815,8 +815,6 @@ Available: <https://www.frontiersin.org/articles/10.3389/fpsyg.2020.00433>
 [^1]: Pictures shared peer-to-peer on social media, generally with a
     text caption over the top, sometimes involving sound or moving
     images and normally amusing.
-
-[^2]: DOIs can be provided.
 
 [^3]: A timelapse video of one layer's recording can be viewed at
     <https://youtu.be/OCBy0Q2RT7k>, where I manage sample starts and
